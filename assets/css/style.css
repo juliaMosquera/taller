@@ -1,0 +1,29 @@
+body{
+    background-color: #c4cbe4;
+}
+
+.titulo{
+    color: #e60606;
+    text-align: center;
+}
+
+
+.image{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+.imaged{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+.texto{
+    color: black;
+    text-align: center;
+}
+
